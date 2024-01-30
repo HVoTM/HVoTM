@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/ZnZai?theme=nord&font=Varta)
+> Currently in progress of studying!
+- 🔭 I’m currently working on chatbot programming and some Machine Learing topics
+- 🌱 I’m currently learning Semiconductor Processing, Artificial Intelligence, Deep Learning and Neural Networks.
+- 🤔 Looking for help with a project in creating a personalized Chessbot and a Chatbo
+- 📫 How to reach me: 
+    + school email: voht@mail.uc.edu
+
+
+
