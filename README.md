@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 > Currently in progress of studying!
 - 🔭 I’m currently working on chatbot programming and some Machine Learing topics
 - 🌱 I’m currently learning Semiconductor Processing, Artificial Intelligence, Deep Learning and Neural Networks.
-- 🤔 Looking for help with a project in creating a personalized Chessbot and a Chatbo
+- 🤔 Looking for help with a project in creating a personalized Chessbot and another project for self-learning agent in game
 - 📫 How to reach me: 
     + school email: voht@mail.uc.edu
 
