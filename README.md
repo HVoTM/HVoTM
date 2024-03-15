@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ZnZai?theme=nord&font=Varta)
 > Currently in progress of studying!
 - 🔭 I’m currently working on chatbot programming and some Machine Learing topics
+    - Idea for Senior Project: Computer Vision and Robotics
 - 🌱 I’m currently learning Semiconductor Processing, Artificial Intelligence, Deep Learning and Neural Networks.
 - 🤔 Looking for help with some project:
-    + creating a personalized Chessbot
-    + another project for self-learning agent in game(snake, Mario, etc)
-    + a finance risk modeling software as well
+    + creating a personalized Chessbot and Chatbot using LLMs and Game-playing technique
+    + another project for self-learning agent in game(snake, Mario, etc) using (Deep) Reinforcement Learning and other AI concepts for game
+    + an applied finance project (Quantitative Risk, Stock Prediction,...)
 - 📫 How to reach me: 
     + school email: voht@mail.uc.edu
 
