@@ -15,16 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ZnZai?theme=nord&font=Varta)
-> Currently in progress of studying!
-- 🔭 I’m currently working on chatbot programming and some Machine Learing topics
+> Studying and practicing ...
+- 🔭 I’m currently working on trivial machine learning problems and personal DSA library
     - Idea for Senior Project: Computer Vision and Robotics
-- 🌱 I’m currently learning Semiconductor Processing, Artificial Intelligence, Deep Learning and Neural Networks.
-- 🤔 Looking for help with some project:
-    + creating a personalized Chessbot and Chatbot using LLMs and Game-playing technique
-    + another project for self-learning agent in game(snake, Mario, etc) using (Deep) Reinforcement Learning and other AI concepts for game
+- 🌱 I’m currently learning Semiconductor Processing and Machine Learning.
+- 🤔 Looking for help with some projects:
+    + creating a personalized Chessbot
+    + Game Development, Computer Graphics, and Game AI 
     + an applied finance project (Quantitative Risk, Stock Prediction,...)
 - 📫 How to reach me: 
-    + school email: voht@mail.uc.edu
+    + email: voht@mail.uc.edu
+- 📚 Feel free to share any good book recommendation
+- 🗻 hiking, climbing, camping, trekking - invite me!
+
+
 
 
 
