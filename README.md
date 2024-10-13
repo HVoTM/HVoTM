@@ -12,10 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
+.
 -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/ZnZai?theme=nord&font=Varta)
+![pixel2](https://github.com/user-attachments/assets/41f1c2da-40bd-41f2-8dc6-e688a969a3b2)
 > Studying and practicing ...
+---
+![Leetcode Stats](https://leetcard.jacoblin.cool/ZnZai?theme=nord&font=Varta)
+
 - 🔭 I’m currently working on trivial machine learning problems and personal DSA library
     - Idea for Senior Project: Computer Vision and Robotics
 - 🌱 I’m currently learning Semiconductor Processing and Machine Learning.
