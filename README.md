@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 ---
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ZnZai?theme=nord&font=Varta)
 
-- 🔭 I’m currently working on trivial machine learning problems and personal DSA library
-    - Idea for Senior Project: Computer Vision and Robotics
-- 🌱 I’m currently learning Semiconductor Processing and Machine Learning.
+- 🔭 I’m currently working on trivial system-level problems and personal DSA library
+- 🌱 I’m currently re-learning and reading Operating Systems, Firmware, and Systems Programming (UNIX).
 - 🤔 Looking for help with some projects:
-    + creating a personalized Chessbot
-    + Game Development, Computer Graphics, and Game AI 
+    + Game Development, Computer Graphics, and Game AI
+    + Raspberry Pi, Embedded Home Automation Project
     + an applied finance project (Quantitative Risk, Stock Prediction,...)
-- 📫 How to reach me: 
+- 📫 How to reach me:
+    + personal email: minhhung1804@gmail.com
     + email: voht@mail.uc.edu
-- 📚 Feel free to share any good book recommendation
+- 📚 Feel free to share any good book recommendation (currently reading _The Idiot_ by F. Dostoevsky)
 - 🗻 hiking, climbing, camping, trekking - invite me!
 
 
