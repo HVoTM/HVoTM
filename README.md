@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ZnZai?theme=nord&font=Varta)
 
 - 🔭 I’m currently working on trivial system-level problems and personal DSA library
-- 🌱 I’m currently re-learning and reading Operating Systems, Firmware, and Systems Programming (UNIX).
+- 🌱 I’m currently learning more on Operating Systems, Firmware, and Systems Programming (UNIX/Linux/MacOS).
 - 🤔 Looking for help with some projects:
     + Game Development, Computer Graphics, and Game AI
-    + Raspberry Pi, Embedded Home Automation Project
-    + an applied finance project (Quantitative Risk, Stock Prediction,...)
+    + Raspberry Pi, Embedded Home Automation Project, ESP32
 - 📫 How to reach me:
     + personal email: minhhung1804@gmail.com
     + email: voht@mail.uc.edu
